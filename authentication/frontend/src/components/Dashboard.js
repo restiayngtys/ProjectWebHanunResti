@@ -10,10 +10,17 @@ const Dashboard = () => {
     // console.log('token', token)
     return (
         <div className="container">
-            <h2>Halaman Dashboard</h2>
-            <p>Selamat Datang di HATI ENGLISH COURSE</p>
-            <span>Happy Learning!</span>
-            <br/><br/>
+            <br></br>
+            <h1>HALAMAN DASHBOARD</h1>
+            <div className="tm-content-container">
+                <figure className="mb-0">
+                    <img src="./images/Daco_4451774.png" align="right" width="700px" height="700px" alt="Image" className="img-fluid tm-img" />
+                </figure>
+            </div>
+            <br></br>
+            <br></br>
+            <h5>Selamat Datang di HATI ENGLISH COURSE</h5>
+            <h6>Happy Learning!</h6>
             <a href="/materi" className="mt-3 btn btn-primary">Lihat Materi</a>
             <br></br>
             <a href="http://localhost:3000" className="mt-3 btn btn-primary">Kembali</a>
