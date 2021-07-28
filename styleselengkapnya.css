@@ -1,0 +1,116 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+	font-family:"Lucida Grand";
+}
+li{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+.container{
+	width: 1170px;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+.top-wrapper{
+	padding: 200px 0 200px 0;
+	background-image:url(./Gambar/close-up-student-reading-book.jpg);
+	background-size:cover;
+	color:white;
+	text-align:center;
+}
+.container{
+	width:1170px;
+	margin: 0 auto;
+}
+.heading h3{
+	font-size: 45px;
+	letter-spacing: 5px;
+	margin-top:150px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #C71585;
+	font-family: "Candara Light";
+}
+.heading h2{
+	font-size: 45px;
+	letter-spacing: 5px;
+	margin-top:180px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #C71585;
+	font-family: "Candara Light";
+}
+.heading p{
+	font-size: 20px;
+	letter-spacing: 2px;
+	margin-bottom: 10px;
+	text-align: center;
+	margin-top:20px;
+}
+.top-wrapper h1{
+	opacity: 0.8;
+	font-size: 45px;
+	letter-spacing: 5px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.lesson{
+	float: left;
+	width: 25%;
+}
+.lesson-icon{
+	position: relative;
+}
+.lesson-icon p{
+	position: absolute;
+	top: 90px;
+	width: 100%;
+	color: white;
+}
+.txt-contents{
+	width: 80%;
+	display:inline-block;
+	margin-top: 20px;
+	font-size: 15px;
+	color: #b3aeb5;
+}
+.top-wrapper h2{
+	opacity: 0.9;
+	margin-bottom: 3px;
+}
+.btn{
+	padding: 12px 24px;
+	color: white;
+	display: inline-block;
+	opacity: 0.8;
+	border-radius: 4px;
+}
+.btn:hover{
+	opacity:1;
+}
+.beli{
+	background-color:#CD5C5C;
+	color:white;
+}
+.signup{
+	background-color:#696969;
+}
+.facebook{
+	background-color:#3b5998;
+	margin-right: 10px;
+}
+.twitter{
+	background-color:#55acee;
+}
+
+.btn-wrapper{
+	margin-top:40px;
+}
+.btn-wrapper p{
+	margin: 10px 0;
+}
